@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @madhesh-hariharran
-- 👀 I’m interested in AI, Data Science, and Indie Game Development
+- 👀 I’m interested in AI, Data Science, and Game Development
 - 🌱 I’m currently learning Advanced Deep Learning Techniques and Back-end Development
 - 💞️ I’m looking to collaborate on Open-source AI/ML projects, Game Development, and Hackathons
 - 📫 How to reach me www.linkedin.com/in/madhesh-hariharran
